@@ -1,0 +1,224 @@
+body{
+    text-align: center;
+    margin: 0;
+    /* box-sizing: border-box; */
+    
+}
+
+#pixar{
+    width: 10px;
+    letter-spacing: 10px;
+    color: white;
+    text-shadow: 0 0 5px black;
+    font-family: 'Quattrocento', serif;
+    height: 50px;
+    position: absolute;
+    top: 300px;
+    left: 700px;
+}
+
+.hero{
+    background: url(images/herobackground.webp);
+    position: relative  ;
+    height:100%;
+    margin: none;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.content1{
+    font-family: 'Lobster', cursive;
+    font-family: 'Permanent Marker', cursive;
+    font-family: 'Stoke', serif;
+
+    background-color: rgb(239, 209, 209);
+    padding: 60px 80px;
+}
+
+.up{
+    background: url(images/up.webp);
+    position: relative;
+    height:100%;
+    margin: none;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.uptext{
+    font-family: 'Lobster', cursive;
+    font-family: 'Stoke', serif;
+    width: 300px;
+    /* letter-spacing: 10px; */
+    color: white;
+    text-shadow: 0 0 5px black;
+    font-family: 'Quattrocento', serif;
+    height: 50px;
+    margin: 0 auto;
+    position: absolute;
+    top: 300px;
+    left: 900px;
+    
+}
+.contentup{
+    margin: 50px auto ;
+    font-family: 'Lobster', cursive;
+    font-family: 'Permanent Marker', cursive;
+    font-family: 'Stoke', serif;
+
+}
+
+.rat{
+    background: url(images/rat.jpg);
+    position: relative;
+    height:100%;
+    margin: none;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.ratext{
+    font-family: 'Lobster', cursive;
+    /* font-family: 'Stoke', serif; */
+    width: 300px;
+    letter-spacing: 10px;
+    color: black;
+    text-shadow: 0 0 5px white;
+    height: 50px;
+    margin: 0 auto;
+    position: absolute;
+    top: 300px;
+    left: 300px;
+    
+}
+.contentrat{
+    margin: 50px auto ;
+    font-family: 'Lobster', cursive;
+    font-family: 'Permanent Marker', cursive;
+    font-family: 'Stoke', serif;
+
+}
+
+.walle{
+    background: url(images/walle.jpg);
+    position: relative;
+    height:100%;
+    margin: none;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.etext{
+    font-family: 'Lobster', cursive;
+    font-family: 'Stoke', serif;
+    width: 300px;
+    letter-spacing: 3px;
+    color: white;
+    text-shadow: 0 0 5px black;
+    font-family: 'Quattrocento', serif;
+    height: 50px;
+    margin: 0 auto;
+    position: absolute;
+    top: 300px;
+    left: 900px;
+    
+}
+.contente{
+    margin: 50px auto ;
+    font-family: 'Lobster', cursive;
+    font-family: 'Permanent Marker', cursive;
+    font-family: 'Stoke', serif;
+
+}
+
+.nemo{
+    background: url(images/nemo.png);
+    position: relative;
+    height:100%;
+    margin: none;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.nemotext{
+    font-family: 'Lobster', cursive;
+    /* font-family: 'Stoke', serif; */
+    width: 300px;
+    letter-spacing: 10px;
+    color: black;
+    text-shadow: 0 0 5px white;
+    height: 50px;
+    margin: 0 auto;
+    position: absolute;
+    top: 300px;
+    left: 300px;
+    
+}
+.contentnemo{
+    margin: 50px auto ;
+    font-family: 'Lobster', cursive;
+    font-family: 'Permanent Marker', cursive;
+    font-family: 'Stoke', serif;
+
+}
+
+.toy{
+    background: url(images/toystory.webp);
+    position: relative;
+    height:100%;
+    margin: none;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.toytext{
+    font-family: 'Lobster', cursive;
+    font-family: 'Stoke', serif;
+    width: 300px;
+    letter-spacing: 5px;
+    color: yellow;
+    text-shadow: 0 0 10px black;
+    font-family: 'Quattrocento', serif;
+    height: 50px;
+    margin: 0 auto;
+    position: absolute;
+    top: 150px;
+    left: 900px;
+    
+}
+.contentoy{
+    margin: 50px auto ;
+    font-family: 'Lobster', cursive;
+    font-family: 'Permanent Marker', cursive;
+    font-family: 'Stoke', serif;
+
+}
+
+.image{
+    border-radius: 49.34%;
+    height: 80px;
+    margin: 20px;
+}
+
+.avatar{
+    background-color: #A8DADC;
+    width: 600px;
+    display: flex;
+    margin: 20px auto;
+    flex-direction: row;
+    padding: 10px;
+    border-bottom: 5px solid #457B9D;
+    border-radius: 10px;
+}
+#meme{
+    width: 150px;
+    padding: 10px;
+    border-radius: 20px;
+    margin: 0 10px 0 0%;
+}
